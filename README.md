@@ -40,6 +40,7 @@ The default dataset is the **UCI Wholesale Customers Dataset** (440 clients; att
 ├── wholesale_clustering.py  # Standalone python script for model execution & output generation
 ├── requirements.txt         # Project dependencies
 └── README.md                # Setup guide and project documentation
+```
 Methods & Techniques
 Preprocessing: StandardScaler feature normalization
 
